@@ -81,4 +81,4 @@ Online Retail II dataset containing over 500,000 transaction records.
 ## Author
 
 Vishal  
-Aspiring Data Analyst | SQL | Python | Business Analytics
+Aspiring Data Analyst | SQL | Python | Machine Learning
